@@ -1,0 +1,49 @@
+{
+  "factory": "Etobicoke Metal Works",
+  "products": [
+    {
+      "name": "Aluminum ladders",
+      "score_with_tariff": 78,
+      "score_without_tariff": 70,
+      "areas": {
+        "product": {
+          "score": 78,
+          "questions": [
+            {"q": "Materials available without the tariff?", "answer": "All", "fit": 100, "confidence": "High",
+             "insights": ["Aluminum can be sourced from Quebec smelters", "Rivets and rubber feet available from Ontario and EU suppliers", "No key input appears on Canada's counter-tariff list"]},
+            {"q": "Do buyers care about the brand?", "answer": "A little", "fit": 67, "confidence": "Medium",
+             "insights": ["Contractors and retailers choose on safety rating and price", "Safety certification matters more than brand name", "Some homeowners prefer known brands"]},
+            {"q": "Lasting advantages?", "answer": "2", "fit": 67, "confidence": "High",
+             "insights": ["Bulky to ship, so cross-border freight is costly", "Canadian aluminum gives a steady local supply", "EU export possible under CETA after certification"]}
+          ]
+        },
+        "investor": {
+          "name": "US ladder maker (example)",
+          "score": 78,
+          "questions": [
+            {"q": "Canada as their market?", "answer": "Moderate", "fit": 67, "confidence": "Low",
+             "insights": ["Canada is a major destination for US exports of this product type", "The company's own Canadian sales figures aren't public", "Agents disagreed, so a person should check"],
+             "agent_opinions": [
+               {"agent": "Agent A", "answer": "Major market", "reason": "Trade data shows Canada buys a large share of US exports"},
+               {"agent": "Agent B", "answer": "Small", "reason": "No company-specific evidence of Canadian sales"}]},
+            {"q": "Hurt by the tariff?", "answer": "Moderately", "fit": 67, "confidence": "Medium",
+             "insights": ["Their ladders now cost about 25% more for Canadian buyers", "Canadian retailers likely to seek alternatives", "Risk of losing Canadian shelf space"]},
+            {"q": "Low-risk partnership?", "answer": "Short contract, easy exit", "fit": 100, "confidence": "High",
+             "insights": ["Contract manufacturing needs no new plant", "They keep their brand and Canadian customers", "They can simply not renew if the tariff ends"]}
+          ]
+        },
+        "business_health": {
+          "score": 78,
+          "questions": [
+            {"q": "New equipment needed?", "answer": "Minor", "fit": 67, "confidence": "High",
+             "insights": ["Existing cutting and riveting machines cover most steps", "Needs a bending jig and testing rig, about $25,000", "Staff already work with aluminum"]},
+            {"q": "Spare capacity?", "answer": "Plenty", "fit": 100, "confidence": "High",
+             "insights": ["Second shift runs at about half capacity", "Unused floor space for a small assembly line", "No new hires needed to start"]},
+            {"q": "Certification ready?", "answer": "Partly", "fit": 67, "confidence": "Medium",
+             "insights": ["ISO 9001 already in place", "CSA ladder safety testing still required", "Certification typically takes a few months"]}
+          ]
+        }
+      }
+    }
+  ]
+}

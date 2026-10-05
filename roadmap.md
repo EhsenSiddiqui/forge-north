@@ -1,0 +1,14 @@
+- [x] Build first-version opportunity cards with search and sector/tariff filters.
+- [x] Remove the manufacturer/investor view switch from the dashboard header (user asked it gone).
+- [x] Complete interactive opportunity workspace, financial model, and draft exports from original brief.
+- [x] Verify desktop/mobile behavior and calculations.
+- [x] Restyle: CA red brand accent on LIGHT background (user dislikes dark)
+- [x] Load uploaded tariff list (spreadsheet) into a searchable tariff schedule page
+- [x] Add fictional, prefilled company-profile onboarding and return to the opportunity dashboard.
+- [x] Add /data-sources provenance page (official trade + funding sources, coverage status) linked from every footer.
+- [ ] AI button on the dashboard that filters opportunities by the saved profile and capabilities.
+- [ ] Replace sample fit scores with per-product data once real agent output exists; confirm the real wording for the "Your Business Health" cards.
+- [x] Add step 06 "Put it to work" — styled CTA inviting the user to let the agentic platform build the perspective, gather info and reach out to investors, partners, consultants (demo only; no outreach).
+- [x] Show the opportunity-landscape figures (648 goods, 413 at 50%, est. total U.S. import market) in the landing page hero, computed from the live catalog.
+
+- [ ] Wire the step 06 CTA to a real agent run (perspective brief, evidence pack, outreach list with approval before sending).
