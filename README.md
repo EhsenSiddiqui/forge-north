@@ -1,6 +1,6 @@
 # ForgeNorth
 
-**Built together, made here.**
+**Tariffs Up. Business Up.**
 
 ForgeNorth is a multi-agent AI assistant that helps Canadian manufacturers find new products they could start making as tariffs reshape cross-border trade. It scores each opportunity on product fit, partner potential and the factory's own readiness, and it says when it isn't sure.
 
