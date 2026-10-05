@@ -2,6 +2,8 @@
 
 **Tariffs Up. Business Up.**
 
+🔗 **[Try the live prototype](https://reshore-catalyst.lovable.app/)**
+
 ForgeNorth is a multi-agent AI assistant that helps Canadian manufacturers find new products they could start making as tariffs reshape cross-border trade. It scores each opportunity on product fit, partner potential and the factory's own readiness, and it says when it isn't sure.
 
 > ⚠️ **Status: prototype.** ForgeNorth was built in one day at the *Build for Canada: An AI Hackathon for Economic Resilience* (NovaForge AI Venture Lab, Toronto, October 2026). This repository contains a working results interface driven by a defined data contract, using illustrative sample data. The multi-agent pipeline described below is the intended design; parts of it are not yet implemented. See [What this prototype includes](#what-this-prototype-includes) for exactly what exists today.
@@ -286,6 +288,10 @@ An honest question I asked during design was whether this needed multiple agents
 6. **Grant matching and partner pitches** for every top-ranked product.
 
 ## Running the prototype
+
+**Live demo:** [reshore-catalyst.lovable.app](https://reshore-catalyst.lovable.app/) (no setup needed; uses illustrative sample data).
+
+To run it locally:
 
 <!-- Replace with the actual steps for this repo, for example: -->
 
